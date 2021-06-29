@@ -15,3 +15,11 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
+
+# Build output
+
+https://3js-starter.vercel.app/
+
+```
+
+```
